@@ -1,0 +1,6 @@
+pyyaml
+dataclasses
+cwlagent
+requests
+openpyxl
+xlrd2
